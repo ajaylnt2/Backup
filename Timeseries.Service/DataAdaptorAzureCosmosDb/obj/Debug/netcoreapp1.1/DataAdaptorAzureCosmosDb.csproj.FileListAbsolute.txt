@@ -1,0 +1,9 @@
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\bin\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.deps.json
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\bin\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.dll
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\bin\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.pdb
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\bin\Debug\netcoreapp1.1\IDataAdaptor.dll
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\bin\Debug\netcoreapp1.1\IDataAdaptor.pdb
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\obj\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.csprojResolveAssemblyReference.cache
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\obj\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.AssemblyInfo.cs
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\obj\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.dll
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\DataAdaptorAzureCosmosDb\obj\Debug\netcoreapp1.1\DataAdaptorAzureCosmosDb.pdb

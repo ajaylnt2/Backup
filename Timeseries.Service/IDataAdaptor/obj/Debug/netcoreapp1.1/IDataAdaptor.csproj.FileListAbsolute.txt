@@ -1,0 +1,7 @@
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.deps.json
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.dll
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.pdb
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.csprojResolveAssemblyReference.cache
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.AssemblyInfo.cs
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.dll
+C:\Users\90001850\Documents\Visual Studio 2017\Projects\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.pdb
